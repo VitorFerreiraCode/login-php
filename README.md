@@ -66,7 +66,10 @@ Este repositório fornece um **template de autenticação** pronto para ser acop
    ```
 3. Ajuste rotas/links caso seu projeto use sub‑pastas ou rewrite via `.htaccess`.
 
-## 🤝 Contribuições
+## 🤝 Contribuições e Próximos Passos
+
+- Bloquear tentativas abusivas.
+- Adicionar csrfToken().
 
 Pull Requests são bem‑vindos! Se encontrar bug ou quiser melhorar UX, abra uma _issue_.
 
